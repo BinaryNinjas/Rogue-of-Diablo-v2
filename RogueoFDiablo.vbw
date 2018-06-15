@@ -1,0 +1,11 @@
+frmRoD = 120, 120, 1346, 791, Z, 30, 30, 1256, 701, C
+modFunc = 180, 180, 1406, 851, 
+modLibbnet = 0, 0, 0, 0, C
+modCheckRevision = 0, 0, 0, 0, C
+Chat = 0, 0, 0, 0, C
+modPkts = 0, 0, 0, 0, C
+killProcess = 0, 0, 0, 0, C
+frmSettings = 90, 90, 1316, 761, , 180, 180, 1406, 851, C
+clsHashTable = 0, 0, 0, 0, C
+clsBuffer = 60, 60, 1286, 731, 
+SysTray = 0, 0, 0, 0, C

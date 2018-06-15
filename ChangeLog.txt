@@ -1,0 +1,9 @@
+[v2 Build 2]
+-Fixed Start/Stop bug
+
+
+[v2 Build 1]
+-Fixed bncs account creation bug.
+-Fixed Multiple MCP Connection bug.
+-Fixed issue with all lowercase Char names. Chars are now Case Sensitive.
+-Fixed Count error for all loaded data.

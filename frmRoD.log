@@ -1,0 +1,18 @@
+Line 52: Class MSWinsockLib.Winsock of control sckBNLS was not a loaded control class.
+Line 59: Class MSWinsockLib.Winsock of control sckMCP was not a loaded control class.
+Line 67: Class MSWinsockLib.Winsock of control sckBnet was not a loaded control class.
+Line 237: Class RichTextLib.RichTextBox of control rtb was not a loaded control class.
+Line 55: The property name _ExtentX in sckBNLS is invalid.
+Line 56: The property name _ExtentY in sckBNLS is invalid.
+Line 57: The property name _Version in sckBNLS is invalid.
+Line 63: The property name _ExtentX in sckMCP is invalid.
+Line 64: The property name _ExtentY in sckMCP is invalid.
+Line 65: The property name _Version in sckMCP is invalid.
+Line 71: The property name _ExtentX in sckBnet is invalid.
+Line 72: The property name _ExtentY in sckBnet is invalid.
+Line 73: The property name _Version in sckBnet is invalid.
+Line 243: The property name _ExtentX in rtb is invalid.
+Line 244: The property name _ExtentY in rtb is invalid.
+Line 245: The property name _Version in rtb is invalid.
+Line 248: The property name ScrollBars in rtb is invalid.
+Line 250: The property name TextRTF in rtb is invalid.
